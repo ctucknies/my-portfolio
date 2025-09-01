@@ -20,7 +20,7 @@ function App() {
       <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-300">
         <BrowserRouter>
           <NavBar />
-          <main className="container mx-auto px-4 py-8">
+          <main className="container mx-auto px-4 py-8 pt-20">
             <Suspense fallback={<FallbackSpinner />}>
               <Routes>
                 <Route path="/" element={<Home />} />
