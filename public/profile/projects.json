@@ -1,0 +1,25 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/sleeper.png",
+            "title": "Fantasy Football League Manager",
+            "bodyText": "- View multiple leagues on one dashboard\n -  Quick and easy set-up\n - Supports the Sleeper App",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ctucknies"
+                },
+                {
+                    "text": "Live",
+                    "href": "/ff-manager"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Sleeper",
+                "Fantasy Football"
+            ]
+        }
+    ]
+}

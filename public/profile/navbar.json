@@ -1,0 +1,43 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "FF Manager",
+            "href": "/"
+        },
+        {
+            "title": "Trade Crafter",
+            "href": "/trade-crafter"
+        },
+        {
+            "title": "Portfolio",
+            "href": "/portfolio"
+        },
+        {
+            "title": "Skills",
+            "href": "/portfolio/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/portfolio/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/portfolio/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/portfolio/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1nO4ol1GnC1eON5Ns5kG7tQY6W057bIE1/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}
