@@ -4,3 +4,7 @@ build/
 .env.local
 .DS_Store
 *.log
+npm-debug.log*
+.npm
+dist/
+coverage/
