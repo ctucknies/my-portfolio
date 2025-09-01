@@ -6,32 +6,28 @@
     },
     "sections": [
         {
-            "title": "FF Manager",
+            "title": "Home",
             "href": "/"
         },
         {
-            "title": "Trade Crafter",
-            "href": "/trade-crafter"
-        },
-        {
-            "title": "Portfolio",
-            "href": "/portfolio"
+            "title": "About",
+            "href": "/about"
         },
         {
             "title": "Skills",
-            "href": "/portfolio/skills"
+            "href": "/skills"
         },
         {
             "title": "Education",
-            "href": "/portfolio/education"
+            "href": "/education"
         },
         {
             "title": "Experience",
-            "href": "/portfolio/experience"
+            "href": "/experience"
         },
         {
             "title": "Projects",
-            "href": "/portfolio/projects"
+            "href": "/projects"
         },
         {
             "title": "Resume",

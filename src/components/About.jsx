@@ -18,7 +18,7 @@ function About({ header }) {
 
   return (
     <>
-      <Header title={header} />
+      <Header header={header} />
       <div className="pt-20 min-h-screen">
         <div className="max-w-6xl mx-auto px-4 py-8">
           <motion.div
